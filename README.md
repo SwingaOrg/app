@@ -2,12 +2,8 @@
 
 Community-powered sharing app. Borrow from neighbors, rent from local businesses.
 
-Built as a platform cooperative — free for individuals, open source, collectively owned.
-
 ## Tech
 
-- Flutter (Dart)
-- Cross-platform: Android, iOS, web
 
 ## License
 
